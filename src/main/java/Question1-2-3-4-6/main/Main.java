@@ -1,11 +1,13 @@
 package main;
 
 import solution.Circle;
+import solution.NegativeNumberException;
 import solution.Square;
 import solution.Shape;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws NegativeNumberException {
+
 
         // Rectangle test
         double side = 5;
@@ -16,5 +18,7 @@ public class Main {
         double radius = 5;
         Shape circle = new Circle(radius);
         System.out.println(circle.toString());
+
+
     }
 }
