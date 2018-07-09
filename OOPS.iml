@@ -6,8 +6,42 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/Question1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/Question2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/Question3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/Question4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/Question5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/Question6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/Question7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/Question8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/TestAccessSpecifiers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src/main/java/Question1" />
+          <root url="file://$MODULE_DIR$/src/main/java/Question2" />
+          <root url="file://$MODULE_DIR$/src/main/java/Question3" />
+          <root url="file://$MODULE_DIR$/src/main/java/Question4" />
+          <root url="file://$MODULE_DIR$/src/main/java/Question5" />
+          <root url="file://$MODULE_DIR$/src/main/java/Question6" />
+          <root url="file://$MODULE_DIR$/src/main/java/Question7" />
+          <root url="file://$MODULE_DIR$/src/main/java/Question8" />
+          <root url="file://$MODULE_DIR$/src/main/java/TestAccessSpecifiers" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/junit-4.10" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

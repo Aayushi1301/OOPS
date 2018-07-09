@@ -1,3 +1,5 @@
+package solution;
+
 public abstract class Shape {
     public int width;
     public int height;

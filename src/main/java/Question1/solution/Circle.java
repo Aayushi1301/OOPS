@@ -1,3 +1,5 @@
+package solution;
+
 public class Circle extends Shape {
     final double pi = Math.PI;
     private double radius;
@@ -13,5 +15,8 @@ public class Circle extends Shape {
 
     public double getPerimeter() {
         return 2 * pi * radius;
+    }
+    public String toString(){//overriding the toString() method
+        return radius+" "+getArea()+" "+getPerimeter();
     }
 }
