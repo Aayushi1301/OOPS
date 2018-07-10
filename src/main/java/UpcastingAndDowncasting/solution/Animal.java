@@ -1,7 +1,7 @@
 package UpcastingAndDowncasting.solution;
 
 public class Animal {
-    public String sound;
+    protected String sound;
     public void setSound(){
         sound="Animal Sound";
         System.out.println("sound ="+sound);
